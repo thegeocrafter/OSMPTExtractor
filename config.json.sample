@@ -1,0 +1,6 @@
+{
+  "dbname": "mycaopdb",
+  "username": "mydbuser",
+  "hostname": "mypguser",
+  "password": "mypgpass"
+}

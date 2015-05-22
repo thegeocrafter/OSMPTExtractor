@@ -1,0 +1,4 @@
+/.idea/
+*.osm.pbf
+*.poly
+*.json
